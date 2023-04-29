@@ -1,0 +1,15 @@
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\bin\Debug\net7.0\Partie3.exe
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\bin\Debug\net7.0\Partie3.deps.json
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\bin\Debug\net7.0\Partie3.runtimeconfig.json
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\bin\Debug\net7.0\Partie3.dll
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\bin\Debug\net7.0\Partie3.pdb
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.csproj.AssemblyReference.cache
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.AssemblyInfoInputs.cache
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.AssemblyInfo.cs
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.csproj.CoreCompileInputs.cache
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.dll
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\refint\Partie3.dll
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.pdb
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\Partie3.genruntimeconfig.cache
+C:\Users\P R E C I S I O N\source\repos\Partie3\Partie3\obj\Debug\net7.0\ref\Partie3.dll
